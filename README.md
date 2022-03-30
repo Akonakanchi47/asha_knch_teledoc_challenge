@@ -28,3 +28,7 @@ Also you can run the test case from command prompt as well by giving the below c
 
 
 mvn clean install
+
+
+
+The test results can be seen in the "TestScreenshots" folder
